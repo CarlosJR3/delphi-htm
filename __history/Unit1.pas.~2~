@@ -12,7 +12,6 @@ type
   private
     { Private declarations }
     procedure createDirectory;
-    procedure ReturnList(var Lista : TStringList);
 
   public
     { Public declarations }
@@ -83,11 +82,6 @@ end;
 procedure TForm1.FormCreate(Sender: TObject);
 begin
            createDirectory;
-end;
-
-procedure TForm1.ReturnList(var Lista: TStringList);
-begin
-
 end;
 
 end.
