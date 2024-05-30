@@ -23,4 +23,29 @@ HTML\assests\images\shop2
 HTML\assests\images\shop3
 HTML\assests\formoid\formoid.min
 HTML\assests\gallery\player.min
-HTML\assests\gallery\
+HTML\assests\gallery\script.js
+HTML\assests\gallery\style
+HTML\assests\imagesloaded\imagesloaded.pkgd.mim 
+HTML\assests\masonry\masonry.pkgd.min
+HTML\assests\mobirise\css\mbr-additional
+HTML\assests\smoothscroll\ smooth-scroll
+HTML\assests\socicon\css\styles
+HTML\assests\socicon\fonts\socicon.eot
+HTML\assests\socicon\fonts\socicon
+HTML\assests\socicon\fonts\socicon
+HTML\assests\socicon\fonts\socicon.woff
+HTML\assests\socicon\fonts\socicon.woff2
+HTML\assests\theme\css\style
+HTML\assests\theme\js\script
+HTML\assests\web\assets\mobirise-icons2\mobirise2
+HTML\assests\web\assets\mobirise-icons2\mobirise2.eot
+HTML\assests\web\assets\mobirise-icons2\mobirise2
+HTML\assests\web\assets\mobirise-icons2\mobirise2
+HTML\assests\web assets\mobirise-icons2\mobirise2.woff
+HTML\assests\ytplayer\index
+
+
+
+
+
+

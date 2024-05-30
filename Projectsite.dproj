@@ -102,6 +102,228 @@
             <Form>Form1</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <RcItem Include="HTML\assets\animatecss\animate.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_2</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\bootstrap\js\bootstrap.bundle.min.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_6</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\bootstrap\css\bootstrap.min.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_3</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\bootstrap\css\bootstrap-grid.min.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_4</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\bootstrap\css\bootstrap-reboot.min.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_5</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\formoid\formoid.min.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_26</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\foto-2-96x96.png">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_9</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\gallery01.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_10</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\gallery02.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_11</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\gallery06.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_12</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\hashes.json">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_13</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\imagesloaded\imagesloaded.pkgd.min.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_30</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\index.html">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_0</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\ytplayer\index.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_48</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\masonry\masonry.pkgd.min.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_31</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-1-598x399.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_14</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-1920x1076.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_22</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-2-598x399.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_15</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-598x276.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_16</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-598x399.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_17</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-598x404.png">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_18</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-816x458.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_19</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-816x466.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_20</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\mbr-816x544.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_21</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\mobirise\css\mbr-additional.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_32</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\web\assets\mobirise-icons2\mobirise2.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_43</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\web\assets\mobirise-icons2\mobirise2.eot">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_44</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\web\assets\mobirise-icons2\mobirise2.svg">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_45</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\web\assets\mobirise-icons2\mobirise2.ttf">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_46</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\web\assets\mobirise-icons2\mobirise2.woff">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_47</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\dropdown\js\navbar-dropdown.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_8</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\gallery\player.min.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_27</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\project.mobirise">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_1</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\gallery\script.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_28</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\theme\js\script.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_42</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\shop1.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_23</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\shop2.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_24</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\images\shop3.jpg">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_25</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\smoothscroll\smooth-scroll.js">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_33</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\socicon\fonts\socicon.eot">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_35</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\socicon\fonts\socicon.svg">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_36</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\socicon\fonts\socicon.ttf">
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_38</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\socicon\fonts\socicon.woff">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_39</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\socicon\fonts\socicon.woff2">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_40</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\gallery\style.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_29</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\dropdown\css\style.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_7</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\theme\css\style.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_41</ResourceId>
+        </RcItem>
+        <RcItem Include="HTML\assets\socicon\css\styles.css">
+            <ContainerId>ResourceItem</ContainerId>
+            <ResourceType>RCDATA</ResourceType>
+            <ResourceId>RC_34</ResourceId>
+        </RcItem>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
@@ -124,6 +346,294 @@
                 </Source>
             </Delphi.Personality>
             <Deployment Version="4">
+                <DeployFile LocalName="HTML\assets\animatecss\animate.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\bootstrap\css\bootstrap-grid.min.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\bootstrap\css\bootstrap-reboot.min.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\bootstrap\css\bootstrap.min.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\bootstrap\js\bootstrap.bundle.min.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\dropdown\css\style.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\dropdown\js\navbar-dropdown.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\formoid\formoid.min.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\gallery\player.min.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\gallery\script.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\gallery\style.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\foto-2-96x96.png" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\gallery01.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\gallery02.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\gallery06.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\hashes.json" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-1-598x399.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-1920x1076.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-2-598x399.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-598x276.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-598x399.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-598x404.png" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-816x458.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-816x466.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\mbr-816x544.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\shop1.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\shop2.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\images\shop3.jpg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\imagesloaded\imagesloaded.pkgd.min.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\masonry\masonry.pkgd.min.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\mobirise\css\mbr-additional.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\smoothscroll\smooth-scroll.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\socicon\css\styles.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\socicon\fonts\socicon.eot" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\socicon\fonts\socicon.svg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\socicon\fonts\socicon.ttf" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\socicon\fonts\socicon.woff2" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\socicon\fonts\socicon.woff" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\theme\css\style.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\theme\js\script.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\web\assets\mobirise-icons2\mobirise2.css" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\web\assets\mobirise-icons2\mobirise2.eot" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\web\assets\mobirise-icons2\mobirise2.svg" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\web\assets\mobirise-icons2\mobirise2.ttf" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\web\assets\mobirise-icons2\mobirise2.woff" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\assets\ytplayer\index.js" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\index.html" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="HTML\project.mobirise" Configuration="Debug" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
                 <DeployFile LocalName="Win32\Debug\Projectsite.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>Projectsite.exe</RemoteName>
