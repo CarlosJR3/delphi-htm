@@ -89,23 +89,15 @@ begin
      Lista:= TStringList.Create;
       try
          ReturnList(Lista);
-         for I := 0 to Pred(Lista.Count) do
-
+      for I := 0 to Pred(Lista.Count) do
 
 
          begin
-                if not FileExists(Lista[I]) then
-            begin
-             Arq := TResourceStream.Create(HInstance,'RC' + IntToStr(I), RT RCDATA;
-               try
-                 Arq.SaveToFile(Lista[I]);
-               finally
-               Arq.Free;
-                end;
-                end;
-
+         Arq := TResourceStream.Create(HInstance,'RC' + IntToStr(I) ;
 
          end;
+
+
       finally
          Lista.Free;
       end;
@@ -114,7 +106,6 @@ end;
 procedure TForm1.FormCreate(Sender: TObject);
 begin
            createDirectory;
-           extractResource;
 end;
 
 procedure TForm1.ReturnList(var Lista: TStringList);

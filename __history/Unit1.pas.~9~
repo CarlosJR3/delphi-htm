@@ -114,7 +114,6 @@ end;
 procedure TForm1.FormCreate(Sender: TObject);
 begin
            createDirectory;
-           extractResource;
 end;
 
 procedure TForm1.ReturnList(var Lista: TStringList);

@@ -98,7 +98,7 @@ begin
             begin
              Arq := TResourceStream.Create(HInstance,'RC' + IntToStr(I), RT RCDATA;
                try
-                 Arq.SaveToFile(Lista[I]);
+
                finally
                Arq.Free;
                 end;
@@ -114,7 +114,6 @@ end;
 procedure TForm1.FormCreate(Sender: TObject);
 begin
            createDirectory;
-           extractResource;
 end;
 
 procedure TForm1.ReturnList(var Lista: TStringList);
